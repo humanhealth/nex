@@ -1,0 +1,14 @@
+{
+  "name": "nex",
+  "version": "1.0.0",
+  "description": "Simple health networking platform skeleton",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
